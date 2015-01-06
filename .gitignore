@@ -1,1 +1,5 @@
+
 Files i don't want to commit
+
+*.dat 
+results/
